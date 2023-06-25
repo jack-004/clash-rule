@@ -1,4 +1,4 @@
-#DMTN.tv
+# DMTN.tv
 DOMAIN-SUFFIX,dmtn.tv
 DOMAIN-SUFFIX,venom-vip.com
 IP-CIDR,217.74.0.0/12
@@ -10,10 +10,10 @@ IP-CIDR,185.53.0.0/12
 IP-CIDR,45.148.0.0/12
 IP-CIDR,37.49.0.0/12
 IP-CIDR,122.254.0.0/12
-#tv.team
+# tv.team
 DOMAIN-SUFFIX,troya.tv
 DOMAIN-SUFFIX,tv.team
-#lightiptv
+# lightiptv
 DOMAIN-SUFFIX,pp.ru
 DOMAIN-SUFFIX,satrip.net.ru
 DOMAIN-KEYWORD,light.ga
