@@ -33,3 +33,10 @@ rule-providers:
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/BanProgramAD.yaml"
     path: ./ACL4SSR/BanProgramAD.yaml
     interval: 86400
+    
+  ChinaDomain:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaDomain.yaml"
+    path: ./ACL4SSR/ChinaDomain.yaml
+    interval: 86400
