@@ -40,3 +40,17 @@ rule-providers:
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaDomain.yaml"
     path: ./ACL4SSR/ChinaDomain.yaml
     interval: 86400
+    
+  LocalAreaNetwork:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/LocalAreaNetwork.yaml"
+    path: ./ACL4SSR/LocalAreaNetwork.yaml
+    interval: 86400
+        
+  UnBan:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/UnBan.yaml"
+    path: ./ACL4SSR/UnBan.yaml
+    interval: 86400
