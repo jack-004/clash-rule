@@ -1,13 +1,29 @@
-# 法C+
+# EURO
+DOMAIN-KEYWORD,live-nl-prod
 DOMAIN-KEYWORD,live-aka-canalplus
-DOMAIN-SUFFIX,cdn.viaplay.tv
-DOMAIN-KEYWORD,telefonica.com
-# Movi+
+DOMAIN-KEYWORD,dcf-fs-live-dazn-cdn
+DOMAIN-KEYWORD,live-dash-cdn2-vp.cdn.viaplay.tv
 DOMAIN-KEYWORD,movistarplus
-# Eleven Sports
-DOMAIN-KEYWORD,hls.redefine.pl
-DOMAIN-KEYWORD,pluscdn.pl
-# skyuk
-DOMAIN-KEYWORD,cdn.skycdp.com
-# EUROSPORT-IT
-DOMAIN-SUFFIX,timlivetu0.cb.ticdn.it
+DOMAIN-SUFFIX,redefine.pl
+DOMAIN-SUFFIX,pluscdn.pl
+DOMAIN-SUFFIX,telia.com
+DOMAIN-KEYWORD,cdn.viaplay
+DOMAIN-SUFFIX,skycdp.com
+DOMAIN-SUFFIX,emisiondof6.com
+DOMAIN-SUFFIX,t-online.de
+IP-CIDR,152.70.235.185/32,no-resolve
+DOMAIN-SUFFIX,skycdn.it
+DOMAIN-SUFFIX,live-mlflux-net
+DOMAIN-KEYWORD,frtf1uhd
+DOMAIN-KEYWORD,frrg2023uhdhdr
+DOMAIN-KEYWORD,livewwdazn
+DOMAIN-KEYWORD,dcj-ac-live
+DOMAIN-SUFFIX,live-up.fubo.tv
+DOMAIN-SUFFIX,cdn-canalplus.pl
+DOMAIN-SUFFIX,ticdn.it
+DOMAIN-SUFFIX,blueonline.tv
+DOMAIN-SUFFIX,oqee.net
+DOMAIN-SUFFIX,viaplay.tv
+DOMAIN-KEYWORD,cdn-viaplay-tv
+DOMAIN-SUFFIX,helio.lv
+DOMAIN-SUFFIX,cyberhost.ro
