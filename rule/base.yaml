@@ -75,4 +75,3 @@ rule-providers:
     url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/RussiaIPTV.list"
     path: ./ACL4SSR/RussiaIPTV.yaml
     interval: 86400
-  
