@@ -47,7 +47,7 @@ rule-providers:
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/LocalAreaNetwork.yaml"
     path: ./ACL4SSR/LocalAreaNetwork.yaml
     interval: 86400
-
+   
   UnBan:
     type: http
     behavior: domain
