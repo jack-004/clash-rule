@@ -47,31 +47,10 @@ rule-providers:
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/LocalAreaNetwork.yaml"
     path: ./ACL4SSR/LocalAreaNetwork.yaml
     interval: 86400
-   
+  
   UnBan:
     type: http
     behavior: domain
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/UnBan.yaml"
     path: ./ACL4SSR/UnBan.yaml
-    interval: 86400
-
-  aus:
-    type: http
-    behavior: classical
-    url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/aus.list"
-    path: ./ACL4SSR/aus.yaml
-    interval: 86400
-
-  EuroIPTV:
-    type: http
-    behavior: classical
-    url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/EuroIPTV.list"
-    path: ./ACL4SSR/EuroIPTV.yaml
-    interval: 86400
-
-  RussiaIPTV:
-    type: http
-    behavior: classical
-    url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/RussiaIPTV.list"
-    path: ./ACL4SSR/RussiaIPTV.yaml
     interval: 86400
