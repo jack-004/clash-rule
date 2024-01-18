@@ -1,3 +1,6 @@
 #AUS
 DOMAIN-SUFFIX,optusvideo.tv
 DOMAIN-KEYWORD,kayo-live
+DOMAIN-SUFFIX,linear.aws.optusvideo.tv
+DOMAIN-SUFFIX,linear-a.akamai.optusvideo.tv
+DOMAIN-SUFFIX,linear-a-bla.epyc.optusvideo.tv
