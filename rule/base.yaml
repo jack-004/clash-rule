@@ -62,17 +62,17 @@ rule-providers:
     path: ./ACL4SSR/aus.yaml
     interval: 86400
 
-  Euro:
+  EuroIPTV:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/EuroIPTV.list"
-    path: ./ACL4SSR/Euro.yaml
+    path: ./ACL4SSR/EuroIPTV.yaml
     interval: 86400
 
-  Russia:
+  RussiaIPTV:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/RussiaIPTV.list"
-    path: ./ACL4SSR/Russia.yaml
+    path: ./ACL4SSR/RussiaIPTV.yaml
     interval: 86400
   
