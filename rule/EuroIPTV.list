@@ -1,6 +1,7 @@
 # EURO
 DOMAIN-KEYWORD,live-nl-prod
 DOMAIN-KEYWORD,live-aka-canalplus
+DOMAIN-KEYWORD,dcf-fs-live-dazn-cdn
 DOMAIN-KEYWORD,live-dash-cdn2-vp.cdn.viaplay.tv
 DOMAIN-KEYWORD,movistarplus
 DOMAIN-SUFFIX,redefine.pl
@@ -15,6 +16,8 @@ DOMAIN-SUFFIX,skycdn.it
 DOMAIN-SUFFIX,live-mlflux-net
 DOMAIN-KEYWORD,frtf1uhd
 DOMAIN-KEYWORD,frrg2023uhdhdr
+DOMAIN-KEYWORD,livewwdazn
+DOMAIN-KEYWORD,dcj-ac-live
 DOMAIN-SUFFIX,live-up.fubo.tv
 DOMAIN-SUFFIX,cdn-canalplus.pl
 DOMAIN-SUFFIX,ticdn.it
