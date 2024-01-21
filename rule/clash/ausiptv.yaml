@@ -1,7 +1,10 @@
 payload:
-#AUS
-- DOMAIN-SUFFIX,optusvideo.tv
-- DOMAIN-KEYWORD,kayo-live
-- DOMAIN-SUFFIX,linear.aws.optusvideo.tv
-- DOMAIN-SUFFIX,linear-a.akamai.optusvideo.tv
-- DOMAIN-SUFFIX,linear-a-bla.epyc.optusvideo.tv
+  # 内容：BBCiPlayer
+  # 数量：15条
+  # USER-AGENT,BBCiPlayer*
+  - DOMAIN-SUFFIX,optusvideo.tv
+  - DOMAIN-KEYWORD,kayo-live
+  - DOMAIN-SUFFIX,linear.aws.optusvideo.tv
+  - DOMAIN-SUFFIX,linear-a.akamai.optusvideo.tv
+  - DOMAIN-SUFFIX,linear-a-bla.epyc.optusvideo.tv
+
