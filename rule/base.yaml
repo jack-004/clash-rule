@@ -76,11 +76,11 @@ rule-providers:
     path: ./ACL4SSR/Google.yaml
     interval: 86400
 
-  Github:
+  GitHub:
     type: http
     behavior: domain
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Github.yaml"
-    path: ./ACL4SSR/Github.yaml
+    path: ./ACL4SSR/GitHub.yaml
     interval: 86400
 
   Docker:
