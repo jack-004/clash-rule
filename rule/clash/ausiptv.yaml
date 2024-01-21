@@ -1,7 +1,5 @@
 payload:
-  # 内容：BBCiPlayer
-  # 数量：15条
-  # USER-AGENT,BBCiPlayer*
+  # 内容：AUSIPTV
   - DOMAIN-SUFFIX,optusvideo.tv
   - DOMAIN-KEYWORD,kayo-live
   - DOMAIN-SUFFIX,linear.aws.optusvideo.tv
