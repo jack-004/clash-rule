@@ -174,11 +174,11 @@ rule-providers:
     path: ./ACL4SSR/Game.yaml
     interval: 86400
 
-  Netflix.:
+  Netflix:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Netflix.yaml"
-    path: ./ACL4SSR/Netflix..yaml
+    path: ./ACL4SSR/Netflix.yaml
     interval: 86400
 
   Star+:
