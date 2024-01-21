@@ -1,24 +1,30 @@
 #tv.team
+#lightiptv
+#ilook
+#DMTN
+payload:
+- DOMAIN-SUFFIX,tv.team
 - DOMAIN-SUFFIX,troya.tv
 - DOMAIN-SUFFIX,troya.today
-- DOMAIN-SUFFIX,tv.team
-
-#lightiptv
-- DOMAIN-SUFFIX,pp.ru
-- DOMAIN-SUFFIX,satrip.net.ru
-- DOMAIN-SUFFIX,lighticons.art
-- DOMAIN-SUFFIX,lightiptv.cc
 - DOMAIN-SUFFIX,light.ga
 - DOMAIN-SUFFIX,light.ml
 - DOMAIN-SUFFIX,light.cf
 - DOMAIN-SUFFIX,light.gq
 - DOMAIN-SUFFIX,light.tk
+- DOMAIN-SUFFIX,pp.ru
+- DOMAIN-SUFFIX,satrip.net.ru
+- DOMAIN-SUFFIX,lighticons.art
+- DOMAIN-SUFFIX,lightiptv.cc
 - DOMAIN-SUFFIX,s3.fr
 - DOMAIN-SUFFIX,s2.fr
 - IP-CIDR,104.21.234.0/24,no-resolve
 - IP-CIDR,104.21.235.0/24,no-resolve
-
-#ilook
+- DOMAIN-SUFFIX,akciatv.ru
+- DOMAIN-SUFFIX,russtv.net
+- DOMAIN-SUFFIX,zatikov.net
+- DOMAIN-KEYWORD,russtv
+- DOMAIN-SUFFIX,megogo.xyz
+- DOMAIN-SUFFIX,faststreem.org
 - IP-CIDR,5.182.228.210/12,no-resolve
 - IP-CIDR,194.59.155.0/24,no-resolve
 - IP-CIDR,213.183.40.0/24,no-resolve
@@ -34,14 +40,6 @@
 - IP-CIDR,92.119.88.0/24,no-resolve
 - IP-CIDR,92.119.89.0/24,no-resolve
 - IP-CIDR,93.189.56.0/24,no-resolve
-- DOMAIN-SUFFIX,akciatv.ru
-- DOMAIN-SUFFIX,russtv.net
-- DOMAIN-SUFFIX,zatikov.net
-- DOMAIN-KEYWORD,russtv
-- DOMAIN-SUFFIX,megogo.xyz
-- DOMAIN-SUFFIX,faststreem.org
-
-#DMTN
 - DOMAIN-SUFFIX,dmtn.tv
 - DOMAIN-SUFFIX,venom-vip.com
 - IP-CIDR,217.74.0.0/12,no-resolve
