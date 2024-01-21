@@ -1,4 +1,5 @@
 #马来-新加坡
+payload:
 - DOMAIN-SUFFIX,my
 - DOMAIN-SUFFIX,com.my
 - DOMAIN-SUFFIX,astradamy.com
