@@ -1,11 +1,9 @@
-#tv.team
-#lightiptv
-#ilook
-#DMTN
 payload:
+#tv.team
 - DOMAIN-SUFFIX,tv.team
 - DOMAIN-SUFFIX,troya.tv
 - DOMAIN-SUFFIX,troya.today
+#lightiptv
 - DOMAIN-SUFFIX,light.ga
 - DOMAIN-SUFFIX,light.ml
 - DOMAIN-SUFFIX,light.cf
@@ -19,6 +17,7 @@ payload:
 - DOMAIN-SUFFIX,s2.fr
 - IP-CIDR,104.21.234.0/24,no-resolve
 - IP-CIDR,104.21.235.0/24,no-resolve
+#ilook
 - DOMAIN-SUFFIX,akciatv.ru
 - DOMAIN-SUFFIX,russtv.net
 - DOMAIN-SUFFIX,zatikov.net
@@ -40,6 +39,7 @@ payload:
 - IP-CIDR,92.119.88.0/24,no-resolve
 - IP-CIDR,92.119.89.0/24,no-resolve
 - IP-CIDR,93.189.56.0/24,no-resolve
+#DMTN
 - DOMAIN-SUFFIX,dmtn.tv
 - DOMAIN-SUFFIX,venom-vip.com
 - IP-CIDR,217.74.0.0/12,no-resolve
