@@ -1,4 +1,5 @@
 # EURO
+payload:
 - DOMAIN-KEYWORD,live-nl-prod
 - DOMAIN-KEYWORD,live-aka-canalplus
 - DOMAIN-KEYWORD,dcf-fs-live-dazn-cdn
