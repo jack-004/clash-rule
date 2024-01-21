@@ -1,7 +1,8 @@
 # > Star+
 // USER-AGENT,Star+*
-- DOMAIN-SUFFIX,starplus.com
 // 拉美节点在大陆使用并不友好，可将此条独立出来单独走 US 线路
+payload:
+- DOMAIN-SUFFIX,starplus.com
 - DOMAIN-SUFFIX,starott.com
 - DOMAIN,star.api.edge.bamgrid.com
 - DOMAIN,star.connections.edge.bamgrid.com
