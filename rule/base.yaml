@@ -22,7 +22,7 @@ rule-providers:
 
   BanAD:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/BanAD.yaml"
     path: ./ACL4SSR/BanAD.yaml
     interval: 86400
@@ -50,7 +50,7 @@ rule-providers:
 
   UnBan:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/UnBan.yaml"
     path: ./ACL4SSR/UnBan.yaml
     interval: 86400
@@ -64,7 +64,7 @@ rule-providers:
 
   YouTube:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YouTube.yaml"
     path: ./ACL4SSR/YouTube.yaml
     interval: 86400
@@ -78,56 +78,56 @@ rule-providers:
 
   GitHub:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Github.yaml"
     path: ./ACL4SSR/GitHub.yaml
     interval: 86400
 
   Docker:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Docker/Docker.yaml"
     path: ./ACL4SSR/Docker.yaml
     interval: 86400
 
   OpenAi:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/OpenAi.yaml"
     path: ./ACL4SSR/OpenAi.yaml
     interval: 86400
 
   Claude:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Claude/Claude.yaml"
     path: ./ACL4SSR/Claude.yaml
     interval: 86400
 
   Bing:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Bing.yaml"
     path: ./ACL4SSR/Bing.yaml
     interval: 86400
 
   OneDrive:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/OneDrive.yaml"
     path: ./ACL4SSR/OneDrive.yaml
     interval: 86400
 
   Microsoft:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Microsoft.yaml"
     path: ./ACL4SSR/Microsoft.yaml
     interval: 86400
 
   AppleTV:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/AppleTV.yaml"
     path: ./ACL4SSR/AppleTV.yaml
     interval: 86400
@@ -141,7 +141,7 @@ rule-providers:
 
   Speedtest:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Speedtest/Speedtest.yaml"
     path: ./ACL4SSR/Speedtest.yaml
     interval: 86400
@@ -155,14 +155,14 @@ rule-providers:
 
   Discord:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Discord.yaml"
     path: ./ACL4SSR/Discord.yaml
     interval: 86400
 
   TikTok:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/TikTok.yaml"
     path: ./ACL4SSR/TikTok.yaml
     interval: 86400
@@ -183,112 +183,112 @@ rule-providers:
 
   Star+:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/Star-nmz.yaml"
     path: ./ACL4SSR/Star+.yaml
     interval: 86400
 
   Star++:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/Star-us.yaml"
     path: ./ACL4SSR/Star++.yaml
     interval: 86400
 
   DisneyPlus:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/DisneyPlus.yaml"
     path: ./ACL4SSR/DisneyPlus.yaml
     interval: 86400
 
   AmazonPrimeVideo:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AmazonPrimeVideo/AmazonPrimeVideo.yaml"
     path: ./ACL4SSR/AmazonPrimeVideo.yaml
     interval: 86400
 
   Peacock:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Peacock/Peacock.yaml"
     path: ./ACL4SSR/Peacock.yaml
     interval: 86400
 
   ParamountPlus:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ParamountPlus/ParamountPlus.yaml"
     path: ./ACL4SSR/ParamountPlus.yaml
     interval: 86400
 
   FuboTV:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/FuboTV/FuboTV.yaml"
     path: ./ACL4SSR/FuboTV.yaml
     interval: 86400
 
   Espn:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Espn/Espn.yaml"
     path: ./ACL4SSR/Espn.yaml
     interval: 86400
 
   HBOUSA:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HBOUSA/HBOUSA.yaml"
     path: ./ACL4SSR/HBOUSA.yaml
     interval: 86400
 
   Hulu:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HuluUSA/HuluUSA.yaml"
     path: ./ACL4SSR/Hulu.yaml
     interval: 86400
 
   AbemaTV:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/AbemaTV.yaml"
     path: ./ACL4SSR/AbemaTV.yaml
     interval: 86400
 
   ukiptv:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/uk.yaml"
     path: ./ACL4SSR/ukiptv.yaml
     interval: 86400
 
   BBCiPlayer:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/BBCiPlayer.yaml"
     path: ./ACL4SSR/BBCiPlayer.yaml
     interval: 86400
 
   ausiptv:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/ausiptv.yaml"
     path: ./ACL4SSR/ausiptv.yaml
     interval: 86400
 
   myTVSUPER:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/myTVSUPER/myTVSUPER.yaml"
     path: ./ACL4SSR/myTVSUPER.yaml
     interval: 86400
 
   Tvbanywhere:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/Tvbanywhere.yaml"
     path: ./ACL4SSR/Tvbanywhere.yaml
     interval: 86400
@@ -302,21 +302,21 @@ rule-providers:
 
   HamiVideo:
     type: http
-    behavior: domain
+    behavior: dclassical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HamiVideo/HamiVideo.yaml"
     path: ./ACL4SSR/HamiVideo.yaml
     interval: 86400
 
   DAZN:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DAZN/DAZN.yaml"
     path: ./ACL4SSR/DAZN.yaml
     interval: 86400
 
   Bahamut:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bahamut/Bahamut.yaml"
     path: ./ACL4SSR/Bahamut.yaml
     interval: 86400
@@ -330,7 +330,7 @@ rule-providers:
 
   Bilibili:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Bilibili.yaml"
     path: ./ACL4SSR/Bilibili.yaml
     interval: 86400
@@ -351,28 +351,28 @@ rule-providers:
 
   USCAIPTV:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/USAIPTV.list"
     path: ./ACL4SSR/USCAIPTV.yaml
     interval: 86400
 
   astro:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/astro.yaml"
     path: ./ACL4SSR/astro.yaml
     interval: 86400
 
   Emby:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Emby/Emby.yaml"
     path: ./ACL4SSR/Emby.yaml
     interval: 86400
 
   Plex:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/plex.yaml"
     path: ./ACL4SSR/Plex.yaml
     interval: 86400
