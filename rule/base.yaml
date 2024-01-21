@@ -152,3 +152,80 @@ rule-providers:
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Telegram.yaml"
     path: ./ACL4SSR/Telegram.yaml
     interval: 86400
+
+  Discord:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Discord.yaml"
+    path: ./ACL4SSR/Discord.yaml
+    interval: 86400
+
+  TikTok:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/TikTok.yaml"
+    path: ./ACL4SSR/TikTok.yaml
+    interval: 86400
+
+  Game:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Game.yaml"
+    path: ./ACL4SSR/Game.yaml
+    interval: 86400
+
+  Netflix.:
+    type: http
+    behavior: classical
+    url: "https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Providers/Ruleset/Netflix.yaml"
+    path: ./ACL4SSR/Netflix..yaml
+    interval: 86400
+
+  Star+:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/Star-nmz.yaml"
+    path: ./ACL4SSR/Star+.yaml
+    interval: 86400
+
+  Star++:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/Star-us.yaml"
+    path: ./ACL4SSR/Star++.yaml
+    interval: 86400
+
+  DisneyPlus:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/DisneyPlus.yaml"
+    path: ./ACL4SSR/DisneyPlus.yaml
+    interval: 86400
+
+  AmazonPrimeVideo:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AmazonPrimeVideo/AmazonPrimeVideo.yaml"
+    path: ./ACL4SSR/AmazonPrimeVideo.yaml
+    interval: 86400
+
+  Peacock:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Peacock/Peacock.yaml"
+    path: ./ACL4SSR/Peacock.yaml
+    interval: 86400
+
+  ParamountPlus:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ParamountPlus/ParamountPlus.yaml"
+    path: ./ACL4SSR/ParamountPlus.yaml
+    interval: 86400
+
+  FuboTV:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/FuboTV/FuboTV.yaml"
+    path: ./ACL4SSR/FuboTV.yaml
+    interval: 86400
