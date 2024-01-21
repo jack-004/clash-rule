@@ -261,7 +261,7 @@ rule-providers:
   ukiptv:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/UK"
+    url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/uk.yaml"
     path: ./ACL4SSR/ukiptv.yaml
     interval: 86400
 
