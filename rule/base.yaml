@@ -181,18 +181,18 @@ rule-providers:
     path: ./ACL4SSR/Netflix.yaml
     interval: 86400
 
-  Star+:
+  Star-nmz:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/Star-nmz.yaml"
-    path: ./ACL4SSR/Star+.yaml
+    path: ./ACL4SSR/Star-nmz.yaml
     interval: 86400
 
-  Star++:
+  Star-us:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/Star-us.yaml"
-    path: ./ACL4SSR/Star++.yaml
+    path: ./ACL4SSR/Star-us.yaml
     interval: 86400
 
   DisneyPlus:
