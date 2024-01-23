@@ -1,7 +1,17 @@
 payload:
 # 内容：AUSIPTV
+#optu
 - DOMAIN-SUFFIX,optusvideo.tv
-- DOMAIN-KEYWORD,kayo-live
 - DOMAIN-SUFFIX,linear.aws.optusvideo.tv
 - DOMAIN-SUFFIX,linear-a.akamai.optusvideo.tv
 - DOMAIN-SUFFIX,linear-a-bla.epyc.optusvideo.tv
+#kayo
+- DOMAIN-KEYWORD,kayo-live
+#stan
+- DOMAIN,streamcoimg-a.akamaihd.net
+- DOMAIN-SUFFIX,stan.com.au
+- DOMAIN-SUFFIX,stan.video
+- DOMAIN-SUFFIX,tan.com.au
+- DOMAIN-KEYWORD,stan
+- DOMAIN,live01-stan.akamaized.net
+- DOMAIN,live02-stan.akamaized.net
