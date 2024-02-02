@@ -41,6 +41,7 @@ payload:
 - IP-CIDR,93.189.56.0/24,no-resolve
 - IP-CIDR,66.90.110.0/24,no-resolve
 - IP-CIDR,93.189.60.0/24,no-resolve
+- IP-CIDR,213.226.69.0,no-resolve
 #DMTN
 - DOMAIN-SUFFIX,dmtn.tv
 - DOMAIN-SUFFIX,venom-vip.com
