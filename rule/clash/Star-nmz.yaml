@@ -10,3 +10,6 @@ payload:
 - DOMAIN,star.playback.edge.bamgrid.com
 // 此条与 Disney+ 共用，主要是加载海报，可注释。注释后打开 App 会提示账号漫游，但不影响正常使用。
 // - DOMAIN,prod-ripcut-delivery.disney-plus.net
+// 此条是Disney+单独走拉美节点
+- DOMAIN-SUFFIX,disney.api.edge.bamgrid.com
+- DOMAIN-SUFFIX,disney.content.edge.bamgrid.com
