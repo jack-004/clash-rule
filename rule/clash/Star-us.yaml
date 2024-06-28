@@ -4,3 +4,4 @@ payload:
 - DOMAIN-SUFFIX,media.starott.com
 - DOMAIN-SUFFIX,global.dns.qwilted-cds.cqloud.com
 - DOMAIN-SUFFIX,dscw16.akamai.net
+- DOMAIN-SUFFIX,live.dualstack.dss.map.fastly.net
