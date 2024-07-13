@@ -3,7 +3,7 @@ payload:
 - DOMAIN-SUFFIX,tv.team
 - DOMAIN-SUFFIX,troya.tv
 - DOMAIN-SUFFIX,troya.today
-- DOMAIN-SUFFIX,troya.one
+- DOMAIN-SUFFIX,cdn2.troya.one
 #lightiptv
 - DOMAIN-SUFFIX,light.ga
 - DOMAIN-SUFFIX,light.ml
