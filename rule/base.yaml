@@ -167,6 +167,13 @@ rule-providers:
     path: ./ACL4SSR/Discord.yaml
     interval: 86400
 
+  Whatsapp:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Whatsapp.yaml"
+    path: ./ACL4SSR/Whatsapp.yaml
+    interval: 86400
+
   TikTok:
     type: http
     behavior: classical
