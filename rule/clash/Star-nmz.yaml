@@ -13,3 +13,4 @@ payload:
 // 此条是Disney+单独走拉美节点
 - DOMAIN-SUFFIX,disney.api.edge.bamgrid.com
 - DOMAIN-SUFFIX,disney.content.edge.bamgrid.com
+- DOMAIN-SUFFIX,cws.conviva.com
