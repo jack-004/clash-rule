@@ -44,23 +44,23 @@ payload:
 - IP-CIDR,93.189.60.0/24,no-resolve
 - IP-CIDR,213.226.69.0/24,no-resolve
 #DMTN
-DOMAIN-SUFFIX,dmtn.tv
-DOMAIN-SUFFIX,venom-vip.com
-IP-CIDR,217.74.0.0/12,no-resolve
-IP-CIDR,102.165.0.0/12,no-resolve
-IP-CIDR,45.153.0.0/12,no-resolve
-IP-CIDR,45.143.0.0/12,no-resolve
-IP-CIDR,185.209.0.0/12,no-resolve
-IP-CIDR,185.53.0.0/12,no-resolve
-IP-CIDR,45.148.0.0/12,no-resolve
-IP-CIDR,37.49.0.0/12,no-resolve
-IP-CIDR,122.254.0.0/12,no-resolve
-IP-CIDR,190.93.0.0/12,no-resolve
-IP-CIDR,154.194.0.0/12,no-resolve
-IP-CIDR,45.65.0.0/12,no-resolve
-IP-CIDR,212.119.0.0/12,no-resolve
-IP-CIDR,77.247.109.0/12,no-resolve
-IP-CIDR,173.232.0.0/12,no-resolve
-IP-CIDR,194.87.0.0/12,no-resolve
-IP-CIDR,185.185.50.232,no-resolve
-IP-CIDR,193.38.244.0/12,no-resolve
+- DOMAIN-SUFFIX,dmtn.tv
+- DOMAIN-SUFFIX,venom-vip.com
+- IP-CIDR,217.74.0.0/12,no-resolve
+- IP-CIDR,102.165.0.0/12,no-resolve
+- IP-CIDR,45.153.0.0/12,no-resolve
+- IP-CIDR,45.143.0.0/12,no-resolve
+- IP-CIDR,185.209.0.0/12,no-resolve
+- IP-CIDR,185.53.0.0/12,no-resolve
+- IP-CIDR,45.148.0.0/12,no-resolve
+- IP-CIDR,37.49.0.0/12,no-resolve
+- IP-CIDR,122.254.0.0/12,no-resolve
+- IP-CIDR,190.93.0.0/12,no-resolve
+- IP-CIDR,154.194.0.0/12,no-resolve
+- IP-CIDR,45.65.0.0/12,no-resolve
+- IP-CIDR,212.119.0.0/12,no-resolve
+- IP-CIDR,77.247.109.0/12,no-resolve
+- IP-CIDR,173.232.0.0/12,no-resolve
+- IP-CIDR,194.87.0.0/12,no-resolve
+- IP-CIDR,185.185.50.232,no-resolve
+- IP-CIDR,193.38.244.0/12,no-resolve
