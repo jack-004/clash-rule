@@ -173,6 +173,28 @@ rule-providers:
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Whatsapp.yaml"
     path: ./ACL4SSR/Whatsapp.yaml
     interval: 86400
+    
+  Facebook:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Providers/Ruleset/Facebook.yaml"
+    path: ./ACL4SSR/Facebook.yaml
+    interval: 86400
+
+  Instagram:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Providers/Ruleset/Instagram.yaml"
+    path: ./ACL4SSR/Instagram.yaml
+    interval: 86400
+
+  X:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Providers/Ruleset/Twitter.yaml"
+    path: ./ACL4SSR/Twitter.yaml
+    interval: 86400
+
 
   TikTok:
     type: http
