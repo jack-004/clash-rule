@@ -346,7 +346,7 @@ rule-providers:
   AmazonIP:
     type: http
     behavior: classical
-    url: "https://gh-proxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/AmazonIP/AmazonIP_IP.yaml"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/AmazonIP/AmazonIP_Classical.yaml"
     path: ./blackmatrix7/AmazonIP_Classical.yaml
     interval: 86400
 
