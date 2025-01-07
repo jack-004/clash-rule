@@ -2,21 +2,21 @@ rule-providers:
   ChinaCompanyIp:
     type: http
     behavior: ipcidr
-    url: "https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/ChinaCompanyIp.yaml"
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Providers/ChinaCompanyIp.yaml"
     path: ./ACL4SSR/ChinaCompanyIp.yaml
     interval: 86400    
 
   ChinaIp:
     type: http
     behavior: ipcidr
-    url: "https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/ChinaIp.yaml"
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Providers/ChinaIp.yaml"
     path: ./ACL4SSR/ChinaIp.yaml
     interval: 86400    
 
   ProxyGFWlist:
     type: http
     behavior: classical
-    url: "https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/ProxyGFWlist.yaml"
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Providers/ProxyGFWlist.yaml"
     path: ./ACL4SSR/ProxyGFWlist.yaml
     interval: 86400
 
