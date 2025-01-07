@@ -347,7 +347,7 @@ rule-providers:
     type: http
     behavior: classical
     url: "https://gh-proxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/AmazonIP/AmazonIP_IP.yaml"
-    path: ./blackmatrix7/AmazonIP_IP
+    path: ./blackmatrix7/AmazonIP_IP.yaml
     interval: 86400
 
   Shopee:
