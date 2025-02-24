@@ -5,3 +5,7 @@ payload:
 - DOMAIN-SUFFIX,disney.api.edge.bamgrid.com
 - DOMAIN-SUFFIX,disney.content.edge.bamgrid.com
 - DOMAIN-SUFFIX,cws.conviva.com
+- DOMAIN-SUFFIX,dssott.com.akamaized.net
+- DOMAIN-SUFFIX,cdn.registerdisney.go.com
+- DOMAIN-SUFFIX,go-mpulse.net
+
