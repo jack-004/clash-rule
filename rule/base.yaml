@@ -255,7 +255,7 @@ rule-providers:
   F1TV:
     type: http
     behavior: classical
-    url: "https://gh-proxy.com/https://raw.githubusercontent.com/jack-004/clash-rule/refs/heads/main/rule/clash/F1TV.yaml"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/s11214/rules/9bce641b37f7e2de7abfe554bc9a1e6144a1d363/Rule%20Sets/F1%20TV.yaml"
     path: ./ACL4SSR/F1TV.yaml
     interval: 86400
 
