@@ -252,6 +252,13 @@ rule-providers:
     path: ./ACL4SSR/FuboTV.yaml
     interval: 86400
 
+  F1TV:
+    type: http
+    behavior: classical
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/jack-004/clash-rule/refs/heads/main/rule/clash/F1TV.yaml"
+    path: ./ACL4SSR/F1TV.yaml
+    interval: 86400
+
   Espn:
     type: http
     behavior: classical
