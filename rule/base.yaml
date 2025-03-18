@@ -440,3 +440,11 @@ rule-providers:
     url: "https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Download.yaml"
     path: ./ACL4SSR/Download.yaml
     interval: 86400
+    
+  PrivateTracker:
+    type: http
+    behavior: classical
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/PrivateTracker/PrivateTracker_No_Resolve.yaml"
+    path: ./ACL4SSR/PrivateTracker.yaml
+    interval: 86400
+
