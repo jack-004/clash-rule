@@ -111,10 +111,10 @@ rule-providers:
     path: ./ACL4SSR/Gemini.yaml
     interval: 86400
 
-  Bing:
+  Copilot:
     type: http
     behavior: classical
-    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Bing.yaml"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Copilot/Copilot_No_Resolve.yaml"
     path: ./ACL4SSR/Bing.yaml
     interval: 86400
 
