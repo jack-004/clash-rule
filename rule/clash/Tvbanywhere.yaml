@@ -11,3 +11,11 @@ payload:
 - DOMAIN-SUFFIX,rthktv35-live.akamaized.net
 - DOMAIN-SUFFIX,rthktv36-live.akamaized.net
 - DOMAIN-SUFFIX,hoy.tv
+- DOMAIN-SUFFIX,nowtv.now.com
+- DOMAIN,api.nowtv.now.com
+- DOMAIN,epg.nowtv.now.com
+- DOMAIN,content.nowtv.now.com
+- DOMAIN,stream.nowtv.now.com
+- DOMAIN,ott.nowtv.now.com
+- DOMAIN-SUFFIX,voddash.now.com
+- DOMAIN-KEYWORD,nowtv
