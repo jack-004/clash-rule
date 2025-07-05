@@ -8,10 +8,6 @@ payload:
 #kayo
 - DOMAIN-KEYWORD,kayo-live
 #stan
-- DOMAIN,streamcoimg-a.akamaihd.net
-- DOMAIN-SUFFIX,stan.com.au
-- DOMAIN-SUFFIX,stan.video
-- DOMAIN-SUFFIX,tan.com.au
-- DOMAIN-KEYWORD,stan
-- DOMAIN,live01-stan.akamaized.net
-- DOMAIN,live02-stan.akamaized.net
+- DOMAIN,stan.com.au
+- DOMAIN,stan.video
+- REGEX,^.*stan\.akamaized\.net$
