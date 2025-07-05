@@ -5,6 +5,7 @@ payload:
 - DOMAIN-SUFFIX,tvbanywhere.com.sg
 - DOMAIN-SUFFIX,rthklive1-lh.akamaihd.net
 - DOMAIN-SUFFIX,rthklive2-lh.akamaihd.net
+- DOMAIN-SUFFIX,rthktv31-live.akamaized.net
 - DOMAIN-SUFFIX,rthktv33-live.akamaized.net
 - DOMAIN-SUFFIX,rthktv34-live.akamaized.net
 - DOMAIN-SUFFIX,rthktv35-live.akamaized.net
