@@ -4,8 +4,8 @@ DOMAIN-KEYWORD,kayo-live
 DOMAIN-SUFFIX,linear.aws.optusvideo.tv
 DOMAIN-SUFFIX,linear-a.akamai.optusvideo.tv
 DOMAIN-SUFFIX,linear-a-bla.epyc.optusvideo.tv
-DOMAIN-SUFFIX,stan.com.au,Stan
-DOMAIN,api.stan.com.au,Stan
-DOMAIN,streaming.stan.com.au,Stan
-DOMAIN-SUFFIX,cloudfront.net,Stan
-DOMAIN-KEYWORD,stan,Stan
+DOMAIN-SUFFIX,stan.com.au
+DOMAIN,api.stan.com.au
+DOMAIN,streaming.stan.com.au
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-KEYWORD,stan
