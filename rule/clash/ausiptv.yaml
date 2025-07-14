@@ -7,7 +7,7 @@ payload:
 - DOMAIN-SUFFIX,linear-a-bla.epyc.optusvideo.tv
 #kayo
 - DOMAIN-KEYWORD,kayo-live
-#stan
+# Stan (Australia)
 - DOMAIN-KEYWORD,stan.com.au
 - DOMAIN-KEYWORD,stan.video
-- REGEX,^.*stan\.akamaized\.net$
+- DOMAIN-SUFFIX,stan.akamaized.net
