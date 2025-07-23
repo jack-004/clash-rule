@@ -8,6 +8,5 @@ payload:
 #kayo
 - DOMAIN-KEYWORD,kayo-live
 # Stan (Australia)
-- DOMAIN-KEYWORD,stan.com.au
-- DOMAIN-KEYWORD,stan.video
+- DOMAIN-SUFFIX,stan.video
 - DOMAIN-SUFFIX,stan.akamaized.net
