@@ -55,13 +55,6 @@ rule-providers:
     path: ./ACL4SSR/UnBan.yaml
     interval: 86400
 
-  PayPal:
-    type: http
-    behavior: classical
-    url: "https://gh-proxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/PayPal/PayPal.yaml"
-    path: ./ACL4SSR/PayPal.yaml
-    interval: 86400
-
   GoogleFCM:
     type: http
     behavior: classical
@@ -439,6 +432,13 @@ rule-providers:
     behavior: classical
     url: "https://gh-proxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Shopify/Shopify.yaml"
     path: ./blackmatrix7/Shopify.yaml
+    interval: 86400
+
+  PayPal:
+    type: http
+    behavior: classical
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/PayPal/PayPal.yaml"
+    path: ./ACL4SSR/PayPal.yaml
     interval: 86400
 
   Download:
