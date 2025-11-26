@@ -381,7 +381,7 @@ rule-providers:
   USCAIPTV:
     type: http
     behavior: classical
-    url: "https://gh-proxy.com/https://raw.githubusercontent.com/jack-004/clash-rule/main/rule/clash/USAIPTV.list"
+    url: "https://gh-proxy.com/https:https://raw.githubusercontent.com/jack-004/clash-rule/refs/heads/main/rule/clash/USAIPTV.yaml"
     path: ./ACL4SSR/USCAIPTV.yaml
     interval: 86400
 
